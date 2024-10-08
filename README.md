@@ -1,6 +1,6 @@
 ## Halo Bang 👋
 
-- 🔭 I’m currently working on ...
+- 🔭 Sekarang saya magang
 <!--
 **mtaufik31/mtaufik31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
