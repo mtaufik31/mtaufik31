@@ -1,4 +1,4 @@
-## About Me? 👋
+## About Me? 
 
  <img class="w-full h-full object-cover rounded-lg" src="fahri.png" alt="Jujutsu Kaisen">
 <!--
