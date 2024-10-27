@@ -1,5 +1,5 @@
 ## About Me? 
-## I'll Add It When Im Ready... 
+<p>I'll Add It When Im Ready...</p>
 
  <img class="w-full h-full object-cover rounded-lg" src="fahri.png" alt="Jujutsu Kaisen">
 <!--
